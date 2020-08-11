@@ -1,0 +1,22 @@
+footer {
+    font-family: sans-serif;
+    background-color: #F8F2E8 ;
+    color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+table {
+    width: 90%;
+}
+
+.footerleft {
+    float: left;
+}
+.footerright {
+    float: right;
+}
+
+.facebook {
+
+}
