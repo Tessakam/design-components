@@ -1,27 +1,30 @@
-footer {
-    font-family: sans-serif;
-    background-color: #F8F2E8 ;
-    color: grey;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-table {
+.container {
     width: 90%;
+    height:100px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    background-color: #F8F2E8;
+    color: #bfbbb3;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .left {
     float: left;
 }
+
 .right {
     float: right;
+    text-align: center;
+
 }
 
-a{
-    text-decoration-line: none;
-}
-
-.fa-envelope, .fa-facebook-f, .fa-twitter, .fa-instagram{
+.fa-envelope, .fa-facebook-f, .fa-twitter, .fa-instagram {
     color: darkgrey;
-    margin: 10px;
+    text-decoration: none;
+float: right;
+
 }
+

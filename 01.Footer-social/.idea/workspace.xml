@@ -35,8 +35,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../challenge-bootstrap/grid-away-grid-ahoy" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,7 +51,10 @@
       <workItem from="1597151149952" duration="20000" />
       <workItem from="1597151170921" duration="641000" />
       <workItem from="1597151850006" duration="491000" />
-      <workItem from="1597152454909" duration="4679000" />
+      <workItem from="1597152454909" duration="5439000" />
+      <workItem from="1597159270279" duration="91000" />
+      <workItem from="1597217807300" duration="17370000" />
+      <workItem from="1597304522086" duration="30000" />
     </task>
     <servers />
   </component>
@@ -58,9 +62,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597152338974">
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597304549241">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597152338974" />
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597304549241" />
   </component>
 </project>
