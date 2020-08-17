@@ -10,13 +10,18 @@ table {
     width: 90%;
 }
 
-.footerleft {
+.left {
     float: left;
 }
-.footerright {
+.right {
     float: right;
 }
 
-.facebook {
+a{
+    text-decoration-line: none;
+}
 
+.fa-envelope, .fa-facebook-f, .fa-twitter, .fa-instagram{
+    color: darkgrey;
+    margin: 10px;
 }
