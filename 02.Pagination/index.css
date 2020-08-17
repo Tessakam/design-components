@@ -1,0 +1,30 @@
+footer {
+    background-color: #e5e5e5;
+    width: 750px;
+    height: 68px;
+    padding-top: 32px;
+}
+
+a {
+    background-color: #3c444e;
+    color: white;
+    float: left;
+    text-decoration: none;
+    height: 25px;
+    width: 72px;
+    margin: 3px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 11px;
+}
+
+a.active {
+    background-color: #3aa1e7;
+}
+
+a.first {
+    background-color: #e5e5e5;
+    color: black;
+    font-weight: bold;
+}
