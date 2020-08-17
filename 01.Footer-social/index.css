@@ -1,7 +1,7 @@
 .container {
-    width: 90%;
-    height:100px;
     margin-top: 20px;
+    width: 90%;
+    height: 100px;
     font-family: sans-serif;
     background-color: #F8F2E8;
     color: #bfbbb3;
@@ -11,20 +11,20 @@
     justify-content: space-between;
 }
 
-.left {
-    float: left;
+.copyright {
+    display: flex;
+    justify-content: flex-start;
 }
 
-.right {
-    float: right;
-    text-align: center;
-
+.conditions {
+    display: flex;
+    justify-content: right;
 }
 
-.fa-envelope, .fa-facebook-f, .fa-twitter, .fa-instagram {
+.fa-envelope, .fa-facebook, .fa-twitter, .fa-instagram {
     color: darkgrey;
     text-decoration: none;
-float: right;
-
+    display: flex;
+    justify-content: flex-end;
 }
 
